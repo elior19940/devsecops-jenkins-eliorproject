@@ -1,0 +1,14 @@
+{
+  "name": "devsecops-jenkins-eliorproject",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for DevSecOps Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {}
+}
